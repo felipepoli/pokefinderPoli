@@ -1,4 +1,4 @@
-# spotify
+# Pokefinder
 
 ## Project setup
 ```
